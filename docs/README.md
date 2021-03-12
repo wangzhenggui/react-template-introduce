@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://cdn.nlark.com/yuque/0/2021/png/200416/1615452047354-51f491db-435f-465d-9697-1f87bd0eef74.png?x-oss-process=image%2Fresize%2Cw_829
+heroImage: /logo.png
 actionText: 快速开始 →
 actionLink: /introduce/guide.html#快速开始
 features:
