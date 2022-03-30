@@ -48,9 +48,9 @@ export const router = 'browserRouter';
 
 ## 路由方式
 ```
-export const router = 'browserRouter';
+export const router = 'hashRouter';
 ```
-browserRouter/hashRouter 这俩种常见路由方式；如果不设置导出，默认使用的是browserRouter
+browserRouter/hashRouter 这俩种常见路由方式；如果不设置导出，默认使用的是hashRouter
 还支持其他react-router5中支持的路由方式
 
 

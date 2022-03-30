@@ -18,6 +18,9 @@ module.exports = [
                 text: 'Recoil', link: 'https://www.recoiljs.cn/'
             },
             {
+                text: 'Redux', link: 'https://react-redux.js.org/'
+            },
+            {
                 text: 'umi-request', link: 'https://github.com/umijs/umi-request'
             }
         ]
